@@ -18,3 +18,9 @@ Benefits:
 No additional software or tools required – works entirely in Excel.
 User-friendly and accessible for teams without technical expertise.
 Quick insights with real-time updates when data is refreshed
+
+How to Use:
+Open the Excel file.
+Update the Data sheet with your sales records (e.g., date, product, region, sales amount, etc.).
+Refresh the pivot tables and charts to view updated metrics.
+Use slicers and filters to explore specific aspects of your sales data.
